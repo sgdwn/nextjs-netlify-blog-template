@@ -13,3 +13,5 @@ tags:
     name: markdown
   - name: Charles Dickens
     slug: dickens
+  - name: A Christmas Carol
+    slug: Christmas-carol

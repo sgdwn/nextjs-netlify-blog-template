@@ -11,3 +11,5 @@ tags:
     name: mdx
   - slug: markdown
     name: markdown
+  - name: Charles Dickens
+    slug: dickens
